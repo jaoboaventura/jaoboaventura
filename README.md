@@ -1,4 +1,4 @@
-### Olá, sou João Boaventura! Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Interessado pelo universo do front-end e do design! 🎨
+### Olá, sou o João! Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Interessado pelo universo do front-end e do design! 🎨 🖥 
 ##
 
 <div>
