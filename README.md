@@ -1,13 +1,6 @@
 ### Olá, sou o João! Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Interessado pelo universo do front-end e do design! 🎨 🖥 
 ##
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaoboaventura&layout=donut"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaoboaventura&show_icons=true&theme=tokyonight"/>
-</div>
-
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Photoshop" height="30" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
